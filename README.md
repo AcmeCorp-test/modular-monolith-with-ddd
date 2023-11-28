@@ -2,7 +2,7 @@
 
 Full Modular Monolith .NET application with Domain-Driven Design approach.
 
-## Announcement
+## Announcement 
 
 ![](docs/Images/glory_to_ukraine.jpg)
  
