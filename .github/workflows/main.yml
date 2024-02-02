@@ -1,6 +1,6 @@
 env:
-  docker_tag: flyingduckio/duckdefender:latest
-  #docker_tag: schalla/test:dev-0.0.22  
+  # docker_tag: flyingduckio/duckdefender:latest
+  docker_tag: schalla/test:dev-0.0.28  
   # docker_tag: schalla/test:dev-0.0.17 
   # docker_tag: schalla/test:dev-0.0.19 
  
